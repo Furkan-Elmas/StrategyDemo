@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6e341ce3533a3544aa851f3850f772d, type: 3}
+  m_Name: HeavyBarrack
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 4427935013156987708, guid: 95136b12e3f72554e9b921ef212308b1, type: 3}
+  ImageSprite: {fileID: 21300000, guid: 106642b0d9926cc4aa52a959007c6105, type: 3}
+  Health: 100
+  CellSizeX: 4
+  CellSizeY: 4
+  BuildingType: 2
+  ProductionData: {fileID: 11400000, guid: 6f3a724314bfdec4b8d6362f6fa4fbed, type: 2}
